@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "919878700763",
+    "firebase_url": "https://mutalem-8a8e9.firebaseio.com",
+    "project_id": "mutalem-8a8e9",
+    "storage_bucket": "mutalem-8a8e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919878700763:android:62963c982ec7a32a32c6fe",
+        "android_client_info": {
+          "package_name": "com.mutalem.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919878700763-hn0ln5ncpiv8bpf4grk3gtnsnq751pb8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mutalem.app",
+            "certificate_hash": "4e6d50324e42e3ae006aab5f8d010ce50a8f5504"
+          }
+        },
+        {
+          "client_id": "919878700763-diije98m7frf6fpqmb10054gdn8ska2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCpaxjgx4qn_ks36KqO_beu1D8ERvZV-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919878700763-diije98m7frf6fpqmb10054gdn8ska2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
